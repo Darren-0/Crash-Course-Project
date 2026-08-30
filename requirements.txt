@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-ollama
+edgar
+edgartools
+langchain-community
+langchain-text-splitters
+chromadb
+pydantic
+pandas
+yfinance
